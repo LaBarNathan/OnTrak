@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyB9G73aMUTThzFfqLLGdZjxOvQUuLz7r_I</string>
+	<key>GCM_SENDER_ID</key>
+	<string>280712457466</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.LaBapps.OnTrak</string>
+	<key>PROJECT_ID</key>
+	<string>ontrak-3a13b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ontrak-3a13b.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:280712457466:ios:b8d00e4859975328032d43</string>
+</dict>
+</plist>
