@@ -78,6 +78,6 @@ This project was inspired by the following tutorial: https://www.youtube.com/wat
 ---
 
 - Nathan LaBar  
-- [GitHub Profile](https://github.com/SmallFace21) 
+- [GitHub Profile](https://github.com/LaBarNathan) 
 
 ---
