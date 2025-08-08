@@ -42,6 +42,17 @@ To run the app locally:
 5. Build and run the app on an iOS Simulator or physical device.
 
 ---
+## Screenshots
+
+<img width="86" height="92" alt="Screenshot 2025-08-08 at 11 54 02 AM" src="https://github.com/user-attachments/assets/c4e07ea4-cb4e-43ea-89eb-40fb06a58f7d" />
+
+<img width="388" height="800" alt="Screenshot 2025-08-08 at 11 53 16 AM" src="https://github.com/user-attachments/assets/823793af-adfc-4248-a803-511a1d27e71c" />
+
+<img width="385" height="795" alt="Screenshot 2025-08-08 at 11 52 56 AM" src="https://github.com/user-attachments/assets/27d54328-65bc-46d1-93a4-15dc51a9b8c1" />
+
+<img width="388" height="806" alt="Screenshot 2025-08-08 at 11 53 50 AM" src="https://github.com/user-attachments/assets/0cda19c3-2db4-4da9-8714-26f0436f3ccc" />
+
+---
 
 ## Roadmap
 
